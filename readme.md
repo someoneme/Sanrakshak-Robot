@@ -11,7 +11,7 @@ This sensor returns the distance of the object from the sensor using ultrasonic 
 Used for live streaming. This will only be used for prototype phase.
 
 # Project Snap
-![](../Snaps/bot_3.gif)
+![](Snaps/bot_3.gif)
 # Bot Pics
-![](../Snaps/bot_1.jpg)
-![](../Snaps/bot_2.jpg)
+![](Snaps/bot_1.jpg)
+![](Snaps/bot_2.jpg)
